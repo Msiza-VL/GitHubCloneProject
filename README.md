@@ -1,2 +1,2 @@
 This is the description of my repo.
-Modification in main branch.
+This repository is for demostrating Git branching, merging, and conflict resolution.
